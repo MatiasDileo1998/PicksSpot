@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138939512028",
+    "firebase_url": "https://loginpickspot.firebaseio.com",
+    "project_id": "loginpickspot",
+    "storage_bucket": "loginpickspot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138939512028:android:28ba5e996087871391f019",
+        "android_client_info": {
+          "package_name": "pickspot.cl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138939512028-0o246fonvd1le37r094q131f1e4isfit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pickspot.cl",
+            "certificate_hash": "b5c331b70cdf9097062089972653dcacab39da6b"
+          }
+        },
+        {
+          "client_id": "138939512028-32bgj1jmvpgbj4h1pak35adt225g37ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Wfwyve3KQ8vwa-UVg8y8453JWBeFZ_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138939512028-32bgj1jmvpgbj4h1pak35adt225g37ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
